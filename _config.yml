@@ -1,6 +1,6 @@
 # Site settings
 title: Yusa Blog
-SEOTitle: Yusa's Blog | Yusa's Blog
+SEOTitle: Yusa's Blog
 header-img: img/home-bg.jpg
 email: 1628585992@qq.com
 description: "这里是 @Yusa 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: Yusa0v0
-zhihu_username: Yusa0v0
+# weibo_username: Yusa0v0
+# zhihu_username: Yusa0v0
 github_username: Yusa0v0
-twitter_username: Yusa0v0
+# twitter_username: Yusa0v0
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
